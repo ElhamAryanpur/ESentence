@@ -13,6 +13,7 @@ then all you have to do is assing it to a variable!
 or you can assign it to multiple variables!
 
 `result = [i for i in range(100)]`
+
 `for i in result: print(i)`
   
 
